@@ -1,4 +1,4 @@
-# Chapter 01 — What Is Agentic AI?
+# Chapter 1 — What Is Agentic AI?
 ### From Chatbots to Autonomous Intelligence
 
 No code in this chapter — pure concepts and mental models.
